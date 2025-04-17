@@ -1,0 +1,2512 @@
+{
+    "response": {
+        "total": "275",
+        "dateFormat": "YYYY-MM-DD\"T\"HH24",
+        "frequency": "hourly",
+        "data": [
+            {
+                "period": "2023-07-29T00",
+                "subba": "ZONA",
+                "subba-name": "West - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2230",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-29T00",
+                "subba": "ZONB",
+                "subba-name": "Genesee - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1675",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-29T00",
+                "subba": "ZONC",
+                "subba-name": "Central - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2511",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-29T00",
+                "subba": "ZOND",
+                "subba-name": "North - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "683",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-29T00",
+                "subba": "ZONE",
+                "subba-name": "Mohawk Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1291",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-29T00",
+                "subba": "ZONF",
+                "subba-name": "Capital - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2072",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-29T00",
+                "subba": "ZONG",
+                "subba-name": "Hudson Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1998",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-29T00",
+                "subba": "ZONH",
+                "subba-name": "Millwood - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "595",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-29T00",
+                "subba": "ZONI",
+                "subba-name": "Dunwoodie - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1122",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-29T00",
+                "subba": "ZONJ",
+                "subba-name": "New York City - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "9098",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-29T00",
+                "subba": "ZONK",
+                "subba-name": "Long Island - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "4729",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T23",
+                "subba": "ZONA",
+                "subba-name": "West - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2290",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T23",
+                "subba": "ZONB",
+                "subba-name": "Genesee - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1701",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T23",
+                "subba": "ZONC",
+                "subba-name": "Central - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2510",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T23",
+                "subba": "ZOND",
+                "subba-name": "North - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "683",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T23",
+                "subba": "ZONE",
+                "subba-name": "Mohawk Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1293",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T23",
+                "subba": "ZONF",
+                "subba-name": "Capital - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2077",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T23",
+                "subba": "ZONG",
+                "subba-name": "Hudson Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2032",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T23",
+                "subba": "ZONH",
+                "subba-name": "Millwood - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "623",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T23",
+                "subba": "ZONI",
+                "subba-name": "Dunwoodie - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1169",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T23",
+                "subba": "ZONJ",
+                "subba-name": "New York City - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "9381",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T23",
+                "subba": "ZONK",
+                "subba-name": "Long Island - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "4904",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T22",
+                "subba": "ZONA",
+                "subba-name": "West - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2313",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T22",
+                "subba": "ZONB",
+                "subba-name": "Genesee - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1682",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T22",
+                "subba": "ZONC",
+                "subba-name": "Central - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2442",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T22",
+                "subba": "ZOND",
+                "subba-name": "North - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "684",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T22",
+                "subba": "ZONE",
+                "subba-name": "Mohawk Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1255",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T22",
+                "subba": "ZONF",
+                "subba-name": "Capital - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2032",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T22",
+                "subba": "ZONG",
+                "subba-name": "Hudson Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1980",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T22",
+                "subba": "ZONH",
+                "subba-name": "Millwood - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "633",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T22",
+                "subba": "ZONI",
+                "subba-name": "Dunwoodie - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1174",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T22",
+                "subba": "ZONJ",
+                "subba-name": "New York City - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "9582",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T22",
+                "subba": "ZONK",
+                "subba-name": "Long Island - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "4954",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T21",
+                "subba": "ZONA",
+                "subba-name": "West - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2290",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T21",
+                "subba": "ZONB",
+                "subba-name": "Genesee - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1638",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T21",
+                "subba": "ZONC",
+                "subba-name": "Central - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2374",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T21",
+                "subba": "ZOND",
+                "subba-name": "North - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "676",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T21",
+                "subba": "ZONE",
+                "subba-name": "Mohawk Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1206",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T21",
+                "subba": "ZONF",
+                "subba-name": "Capital - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1955",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T21",
+                "subba": "ZONG",
+                "subba-name": "Hudson Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1903",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T21",
+                "subba": "ZONH",
+                "subba-name": "Millwood - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "628",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T21",
+                "subba": "ZONI",
+                "subba-name": "Dunwoodie - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1156",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T21",
+                "subba": "ZONJ",
+                "subba-name": "New York City - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "9580",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T21",
+                "subba": "ZONK",
+                "subba-name": "Long Island - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "4867",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T20",
+                "subba": "ZONA",
+                "subba-name": "West - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2293",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T20",
+                "subba": "ZONB",
+                "subba-name": "Genesee - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1621",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T20",
+                "subba": "ZONC",
+                "subba-name": "Central - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2329",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T20",
+                "subba": "ZOND",
+                "subba-name": "North - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "687",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T20",
+                "subba": "ZONE",
+                "subba-name": "Mohawk Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1158",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T20",
+                "subba": "ZONF",
+                "subba-name": "Capital - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1925",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T20",
+                "subba": "ZONG",
+                "subba-name": "Hudson Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1808",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T20",
+                "subba": "ZONH",
+                "subba-name": "Millwood - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "619",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T20",
+                "subba": "ZONI",
+                "subba-name": "Dunwoodie - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1132",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T20",
+                "subba": "ZONJ",
+                "subba-name": "New York City - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "9498",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T20",
+                "subba": "ZONK",
+                "subba-name": "Long Island - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "4838",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T19",
+                "subba": "ZONA",
+                "subba-name": "West - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2349",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T19",
+                "subba": "ZONB",
+                "subba-name": "Genesee - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1594",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T19",
+                "subba": "ZONC",
+                "subba-name": "Central - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2275",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T19",
+                "subba": "ZOND",
+                "subba-name": "North - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "685",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T19",
+                "subba": "ZONE",
+                "subba-name": "Mohawk Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1151",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T19",
+                "subba": "ZONF",
+                "subba-name": "Capital - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1870",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T19",
+                "subba": "ZONG",
+                "subba-name": "Hudson Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1735",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T19",
+                "subba": "ZONH",
+                "subba-name": "Millwood - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "596",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T19",
+                "subba": "ZONI",
+                "subba-name": "Dunwoodie - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1103",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T19",
+                "subba": "ZONJ",
+                "subba-name": "New York City - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "9380",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T19",
+                "subba": "ZONK",
+                "subba-name": "Long Island - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "4715",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T18",
+                "subba": "ZONA",
+                "subba-name": "West - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2311",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T18",
+                "subba": "ZONB",
+                "subba-name": "Genesee - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1554",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T18",
+                "subba": "ZONC",
+                "subba-name": "Central - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2237",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T18",
+                "subba": "ZOND",
+                "subba-name": "North - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "678",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T18",
+                "subba": "ZONE",
+                "subba-name": "Mohawk Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1162",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T18",
+                "subba": "ZONF",
+                "subba-name": "Capital - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1821",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T18",
+                "subba": "ZONG",
+                "subba-name": "Hudson Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1662",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T18",
+                "subba": "ZONH",
+                "subba-name": "Millwood - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "574",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T18",
+                "subba": "ZONI",
+                "subba-name": "Dunwoodie - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1086",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T18",
+                "subba": "ZONJ",
+                "subba-name": "New York City - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "9285",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T18",
+                "subba": "ZONK",
+                "subba-name": "Long Island - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "4536",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T17",
+                "subba": "ZONA",
+                "subba-name": "West - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2243",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T17",
+                "subba": "ZONB",
+                "subba-name": "Genesee - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1507",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T17",
+                "subba": "ZONC",
+                "subba-name": "Central - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2184",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T17",
+                "subba": "ZOND",
+                "subba-name": "North - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "667",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T17",
+                "subba": "ZONE",
+                "subba-name": "Mohawk Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1111",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T17",
+                "subba": "ZONF",
+                "subba-name": "Capital - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1783",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T17",
+                "subba": "ZONG",
+                "subba-name": "Hudson Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1566",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T17",
+                "subba": "ZONH",
+                "subba-name": "Millwood - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "549",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T17",
+                "subba": "ZONI",
+                "subba-name": "Dunwoodie - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1049",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T17",
+                "subba": "ZONJ",
+                "subba-name": "New York City - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "9151",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T17",
+                "subba": "ZONK",
+                "subba-name": "Long Island - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "4350",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T16",
+                "subba": "ZONA",
+                "subba-name": "West - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2169",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T16",
+                "subba": "ZONB",
+                "subba-name": "Genesee - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1450",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T16",
+                "subba": "ZONC",
+                "subba-name": "Central - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2142",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T16",
+                "subba": "ZOND",
+                "subba-name": "North - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "656",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T16",
+                "subba": "ZONE",
+                "subba-name": "Mohawk Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1052",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T16",
+                "subba": "ZONF",
+                "subba-name": "Capital - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1763",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T16",
+                "subba": "ZONG",
+                "subba-name": "Hudson Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1512",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T16",
+                "subba": "ZONH",
+                "subba-name": "Millwood - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "525",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T16",
+                "subba": "ZONI",
+                "subba-name": "Dunwoodie - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "999",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T16",
+                "subba": "ZONJ",
+                "subba-name": "New York City - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "8988",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T16",
+                "subba": "ZONK",
+                "subba-name": "Long Island - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "4115",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T15",
+                "subba": "ZONA",
+                "subba-name": "West - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2114",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T15",
+                "subba": "ZONB",
+                "subba-name": "Genesee - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1382",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T15",
+                "subba": "ZONC",
+                "subba-name": "Central - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2069",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T15",
+                "subba": "ZOND",
+                "subba-name": "North - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "641",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T15",
+                "subba": "ZONE",
+                "subba-name": "Mohawk Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1015",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T15",
+                "subba": "ZONF",
+                "subba-name": "Capital - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1702",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T15",
+                "subba": "ZONG",
+                "subba-name": "Hudson Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1436",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T15",
+                "subba": "ZONH",
+                "subba-name": "Millwood - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "485",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T15",
+                "subba": "ZONI",
+                "subba-name": "Dunwoodie - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "946",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T15",
+                "subba": "ZONJ",
+                "subba-name": "New York City - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "8784",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T15",
+                "subba": "ZONK",
+                "subba-name": "Long Island - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "3828",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T14",
+                "subba": "ZONA",
+                "subba-name": "West - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2018",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T14",
+                "subba": "ZONB",
+                "subba-name": "Genesee - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1304",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T14",
+                "subba": "ZONC",
+                "subba-name": "Central - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1998",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T14",
+                "subba": "ZOND",
+                "subba-name": "North - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "636",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T14",
+                "subba": "ZONE",
+                "subba-name": "Mohawk Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "964",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T14",
+                "subba": "ZONF",
+                "subba-name": "Capital - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1626",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T14",
+                "subba": "ZONG",
+                "subba-name": "Hudson Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1353",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T14",
+                "subba": "ZONH",
+                "subba-name": "Millwood - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "455",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T14",
+                "subba": "ZONI",
+                "subba-name": "Dunwoodie - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "890",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T14",
+                "subba": "ZONJ",
+                "subba-name": "New York City - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "8523",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T14",
+                "subba": "ZONK",
+                "subba-name": "Long Island - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "3642",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T13",
+                "subba": "ZONA",
+                "subba-name": "West - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1934",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T13",
+                "subba": "ZONB",
+                "subba-name": "Genesee - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1250",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T13",
+                "subba": "ZONC",
+                "subba-name": "Central - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1968",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T13",
+                "subba": "ZOND",
+                "subba-name": "North - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "633",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T13",
+                "subba": "ZONE",
+                "subba-name": "Mohawk Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "944",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T13",
+                "subba": "ZONF",
+                "subba-name": "Capital - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1573",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T13",
+                "subba": "ZONG",
+                "subba-name": "Hudson Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1287",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T13",
+                "subba": "ZONH",
+                "subba-name": "Millwood - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "422",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T13",
+                "subba": "ZONI",
+                "subba-name": "Dunwoodie - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "842",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T13",
+                "subba": "ZONJ",
+                "subba-name": "New York City - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "8185",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T13",
+                "subba": "ZONK",
+                "subba-name": "Long Island - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "3396",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T12",
+                "subba": "ZONA",
+                "subba-name": "West - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1816",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T12",
+                "subba": "ZONB",
+                "subba-name": "Genesee - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1212",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T12",
+                "subba": "ZONC",
+                "subba-name": "Central - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1919",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T12",
+                "subba": "ZOND",
+                "subba-name": "North - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "623",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T12",
+                "subba": "ZONE",
+                "subba-name": "Mohawk Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "911",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T12",
+                "subba": "ZONF",
+                "subba-name": "Capital - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1521",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T12",
+                "subba": "ZONG",
+                "subba-name": "Hudson Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1204",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T12",
+                "subba": "ZONH",
+                "subba-name": "Millwood - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "382",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T12",
+                "subba": "ZONI",
+                "subba-name": "Dunwoodie - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "802",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T12",
+                "subba": "ZONJ",
+                "subba-name": "New York City - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "7782",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T12",
+                "subba": "ZONK",
+                "subba-name": "Long Island - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "3113",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T11",
+                "subba": "ZONA",
+                "subba-name": "West - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1703",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T11",
+                "subba": "ZONB",
+                "subba-name": "Genesee - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1150",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T11",
+                "subba": "ZONC",
+                "subba-name": "Central - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1808",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T11",
+                "subba": "ZOND",
+                "subba-name": "North - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "615",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T11",
+                "subba": "ZONE",
+                "subba-name": "Mohawk Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "877",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T11",
+                "subba": "ZONF",
+                "subba-name": "Capital - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1440",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T11",
+                "subba": "ZONG",
+                "subba-name": "Hudson Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1119",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T11",
+                "subba": "ZONH",
+                "subba-name": "Millwood - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "354",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T11",
+                "subba": "ZONI",
+                "subba-name": "Dunwoodie - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "742",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T11",
+                "subba": "ZONJ",
+                "subba-name": "New York City - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "7252",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T11",
+                "subba": "ZONK",
+                "subba-name": "Long Island - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2865",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T10",
+                "subba": "ZONA",
+                "subba-name": "West - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1647",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T10",
+                "subba": "ZONB",
+                "subba-name": "Genesee - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1105",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T10",
+                "subba": "ZONC",
+                "subba-name": "Central - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1721",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T10",
+                "subba": "ZOND",
+                "subba-name": "North - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "600",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T10",
+                "subba": "ZONE",
+                "subba-name": "Mohawk Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "835",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T10",
+                "subba": "ZONF",
+                "subba-name": "Capital - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1376",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T10",
+                "subba": "ZONG",
+                "subba-name": "Hudson Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1072",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T10",
+                "subba": "ZONH",
+                "subba-name": "Millwood - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "335",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T10",
+                "subba": "ZONI",
+                "subba-name": "Dunwoodie - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "701",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T10",
+                "subba": "ZONJ",
+                "subba-name": "New York City - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "6857",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T10",
+                "subba": "ZONK",
+                "subba-name": "Long Island - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2788",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T09",
+                "subba": "ZONA",
+                "subba-name": "West - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1613",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T09",
+                "subba": "ZONB",
+                "subba-name": "Genesee - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1077",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T09",
+                "subba": "ZONC",
+                "subba-name": "Central - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1671",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T09",
+                "subba": "ZOND",
+                "subba-name": "North - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "595",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T09",
+                "subba": "ZONE",
+                "subba-name": "Mohawk Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "810",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T09",
+                "subba": "ZONF",
+                "subba-name": "Capital - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1336",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T09",
+                "subba": "ZONG",
+                "subba-name": "Hudson Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1054",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T09",
+                "subba": "ZONH",
+                "subba-name": "Millwood - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "329",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T09",
+                "subba": "ZONI",
+                "subba-name": "Dunwoodie - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "687",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T09",
+                "subba": "ZONJ",
+                "subba-name": "New York City - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "6721",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T09",
+                "subba": "ZONK",
+                "subba-name": "Long Island - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2762",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T08",
+                "subba": "ZONA",
+                "subba-name": "West - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1616",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T08",
+                "subba": "ZONB",
+                "subba-name": "Genesee - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1081",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T08",
+                "subba": "ZONC",
+                "subba-name": "Central - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1661",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T08",
+                "subba": "ZOND",
+                "subba-name": "North - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "592",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T08",
+                "subba": "ZONE",
+                "subba-name": "Mohawk Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "808",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T08",
+                "subba": "ZONF",
+                "subba-name": "Capital - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1341",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T08",
+                "subba": "ZONG",
+                "subba-name": "Hudson Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1076",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T08",
+                "subba": "ZONH",
+                "subba-name": "Millwood - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "334",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T08",
+                "subba": "ZONI",
+                "subba-name": "Dunwoodie - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "698",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T08",
+                "subba": "ZONJ",
+                "subba-name": "New York City - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "6769",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T08",
+                "subba": "ZONK",
+                "subba-name": "Long Island - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2828",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T07",
+                "subba": "ZONA",
+                "subba-name": "West - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1646",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T07",
+                "subba": "ZONB",
+                "subba-name": "Genesee - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1110",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T07",
+                "subba": "ZONC",
+                "subba-name": "Central - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1686",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T07",
+                "subba": "ZOND",
+                "subba-name": "North - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "592",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T07",
+                "subba": "ZONE",
+                "subba-name": "Mohawk Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "821",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T07",
+                "subba": "ZONF",
+                "subba-name": "Capital - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1376",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T07",
+                "subba": "ZONG",
+                "subba-name": "Hudson Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1120",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T07",
+                "subba": "ZONH",
+                "subba-name": "Millwood - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "339",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T07",
+                "subba": "ZONI",
+                "subba-name": "Dunwoodie - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "726",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T07",
+                "subba": "ZONJ",
+                "subba-name": "New York City - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "6935",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T07",
+                "subba": "ZONK",
+                "subba-name": "Long Island - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2927",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T06",
+                "subba": "ZONA",
+                "subba-name": "West - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1705",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T06",
+                "subba": "ZONB",
+                "subba-name": "Genesee - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1159",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T06",
+                "subba": "ZONC",
+                "subba-name": "Central - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1735",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T06",
+                "subba": "ZOND",
+                "subba-name": "North - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "612",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T06",
+                "subba": "ZONE",
+                "subba-name": "Mohawk Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "853",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T06",
+                "subba": "ZONF",
+                "subba-name": "Capital - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1428",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T06",
+                "subba": "ZONG",
+                "subba-name": "Hudson Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1177",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T06",
+                "subba": "ZONH",
+                "subba-name": "Millwood - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "360",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T06",
+                "subba": "ZONI",
+                "subba-name": "Dunwoodie - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "764",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T06",
+                "subba": "ZONJ",
+                "subba-name": "New York City - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "7180",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T06",
+                "subba": "ZONK",
+                "subba-name": "Long Island - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "3064",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T05",
+                "subba": "ZONA",
+                "subba-name": "West - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1783",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T05",
+                "subba": "ZONB",
+                "subba-name": "Genesee - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1221",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T05",
+                "subba": "ZONC",
+                "subba-name": "Central - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1817",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T05",
+                "subba": "ZOND",
+                "subba-name": "North - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "608",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T05",
+                "subba": "ZONE",
+                "subba-name": "Mohawk Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "892",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T05",
+                "subba": "ZONF",
+                "subba-name": "Capital - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1497",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T05",
+                "subba": "ZONG",
+                "subba-name": "Hudson Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1255",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T05",
+                "subba": "ZONH",
+                "subba-name": "Millwood - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "380",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T05",
+                "subba": "ZONI",
+                "subba-name": "Dunwoodie - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "803",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T05",
+                "subba": "ZONJ",
+                "subba-name": "New York City - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "7579",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T05",
+                "subba": "ZONK",
+                "subba-name": "Long Island - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "3255",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T04",
+                "subba": "ZONA",
+                "subba-name": "West - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1883",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T04",
+                "subba": "ZONB",
+                "subba-name": "Genesee - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1309",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T04",
+                "subba": "ZONC",
+                "subba-name": "Central - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1919",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T04",
+                "subba": "ZOND",
+                "subba-name": "North - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "615",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T04",
+                "subba": "ZONE",
+                "subba-name": "Mohawk Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "949",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T04",
+                "subba": "ZONF",
+                "subba-name": "Capital - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1599",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T04",
+                "subba": "ZONG",
+                "subba-name": "Hudson Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1343",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T04",
+                "subba": "ZONH",
+                "subba-name": "Millwood - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "413",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T04",
+                "subba": "ZONI",
+                "subba-name": "Dunwoodie - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "860",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T04",
+                "subba": "ZONJ",
+                "subba-name": "New York City - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "7990",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T04",
+                "subba": "ZONK",
+                "subba-name": "Long Island - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "3532",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T03",
+                "subba": "ZONA",
+                "subba-name": "West - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1958",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T03",
+                "subba": "ZONB",
+                "subba-name": "Genesee - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1416",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T03",
+                "subba": "ZONC",
+                "subba-name": "Central - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2076",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T03",
+                "subba": "ZOND",
+                "subba-name": "North - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "636",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T03",
+                "subba": "ZONE",
+                "subba-name": "Mohawk Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1009",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T03",
+                "subba": "ZONF",
+                "subba-name": "Capital - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1718",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T03",
+                "subba": "ZONG",
+                "subba-name": "Hudson Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1454",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T03",
+                "subba": "ZONH",
+                "subba-name": "Millwood - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "449",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T03",
+                "subba": "ZONI",
+                "subba-name": "Dunwoodie - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "929",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T03",
+                "subba": "ZONJ",
+                "subba-name": "New York City - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "8429",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T03",
+                "subba": "ZONK",
+                "subba-name": "Long Island - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "3882",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T02",
+                "subba": "ZONA",
+                "subba-name": "West - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2062",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T02",
+                "subba": "ZONB",
+                "subba-name": "Genesee - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1514",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T02",
+                "subba": "ZONC",
+                "subba-name": "Central - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2236",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T02",
+                "subba": "ZOND",
+                "subba-name": "North - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "668",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T02",
+                "subba": "ZONE",
+                "subba-name": "Mohawk Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1094",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T02",
+                "subba": "ZONF",
+                "subba-name": "Capital - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1843",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T02",
+                "subba": "ZONG",
+                "subba-name": "Hudson Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1566",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T02",
+                "subba": "ZONH",
+                "subba-name": "Millwood - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "487",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T02",
+                "subba": "ZONI",
+                "subba-name": "Dunwoodie - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1000",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T02",
+                "subba": "ZONJ",
+                "subba-name": "New York City - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "9062",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T02",
+                "subba": "ZONK",
+                "subba-name": "Long Island - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "4278",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T01",
+                "subba": "ZONA",
+                "subba-name": "West - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2091",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T01",
+                "subba": "ZONB",
+                "subba-name": "Genesee - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1549",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T01",
+                "subba": "ZONC",
+                "subba-name": "Central - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2280",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T01",
+                "subba": "ZOND",
+                "subba-name": "North - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "662",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T01",
+                "subba": "ZONE",
+                "subba-name": "Mohawk Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1130",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T01",
+                "subba": "ZONF",
+                "subba-name": "Capital - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1898",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T01",
+                "subba": "ZONG",
+                "subba-name": "Hudson Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1644",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T01",
+                "subba": "ZONH",
+                "subba-name": "Millwood - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "517",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T01",
+                "subba": "ZONI",
+                "subba-name": "Dunwoodie - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1055",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T01",
+                "subba": "ZONJ",
+                "subba-name": "New York City - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "9367",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T01",
+                "subba": "ZONK",
+                "subba-name": "Long Island - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "4592",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T00",
+                "subba": "ZONA",
+                "subba-name": "West - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2120",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T00",
+                "subba": "ZONB",
+                "subba-name": "Genesee - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1583",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T00",
+                "subba": "ZONC",
+                "subba-name": "Central - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "2295",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T00",
+                "subba": "ZOND",
+                "subba-name": "North - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "675",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T00",
+                "subba": "ZONE",
+                "subba-name": "Mohawk Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1146",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T00",
+                "subba": "ZONF",
+                "subba-name": "Capital - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1939",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T00",
+                "subba": "ZONG",
+                "subba-name": "Hudson Valley - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1698",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T00",
+                "subba": "ZONH",
+                "subba-name": "Millwood - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "547",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T00",
+                "subba": "ZONI",
+                "subba-name": "Dunwoodie - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "1133",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T00",
+                "subba": "ZONJ",
+                "subba-name": "New York City - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "9582",
+                "value-units": "megawatthours"
+            },
+            {
+                "period": "2023-07-28T00",
+                "subba": "ZONK",
+                "subba-name": "Long Island - NYIS",
+                "parent": "NYIS",
+                "parent-name": "New York Independent System Operator",
+                "value": "4748",
+                "value-units": "megawatthours"
+            }
+        ],
+        "description": "Hourly demand by balancing authority subregion.  \n    Source: Form EIA-930\n    Product: Hourly Electric Grid Monitor"
+    },
+    "request": {
+        "command": "/v2/electricity/rto/region-sub-ba-data/data/",
+        "params": {
+            "frequency": "hourly",
+            "data": [
+                "value"
+            ],
+            "sort": [
+                {
+                    "column": "period",
+                    "direction": "desc"
+                }
+            ],
+            "facets": {
+                "parent": [
+                    "NYIS"
+                ]
+            },
+            "offset": "0",
+            "length": "5000",
+            "start": "2023-07-28",
+            "end": "2023-07-29",
+            "api_key": "dqRq8VpXSoyUrCbrPhuYFxGl6Rul9kmVcRshZ98c"
+        }
+    },
+    "apiVersion": "2.1.8",
+    "ExcelAddInVersion": "2.1.0"
+}
